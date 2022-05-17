@@ -1,5 +1,5 @@
 # exercícios beecrowd.com.br
-<p>nesse repositório estão meus exercícios de prática no <a href="beecrowd.com.br">beecrowd</a>.</p>
+<p>nesse repositório estão meus exercícios de prática no <a href="https://www.beecrowd.com.br/">beecrowd</a>.</p>
 
 <p>para cada linguagem que aprendo existe uma pasta com os exercícios resolvidos.</p>
 
